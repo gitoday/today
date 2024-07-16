@@ -14,4 +14,4 @@ In this example I used **push** command to _upload_ repo content.
 
 > Note: we cant use Java programming language for the same action.
 
-Thank you.
+> Note: This file will be updated from time to time.
