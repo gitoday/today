@@ -18,3 +18,6 @@ In this example I used **push** command to _upload_ repo content.
 
 ## feature document 
 this is my new python feature.
+
+## bug fixed
+today I fixed this bug
